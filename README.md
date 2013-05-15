@@ -1,4 +1,4 @@
-test.3wish.co.kr
+3wish_test.github.com
 ================
 
 menifest test page
