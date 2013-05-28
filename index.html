@@ -16,11 +16,20 @@
       $(document).ready(function () {
         $('#main_content').headsmart()
       })
+      var login = function(){
+  		alert('d');
+			$.post("https://marketplace.firefox.com/developers/api/v1/account/login/", {assertion : "3wish", audience : "werail.com" },
+					function(data){
+					alert(data);
+				}
+			, 'json');
+		}
     </script>
     <title>Affiwtaoe.github.com by affiwtaoe</title>
   </head>
 
   <body>
+  <a href="" onclick="javascript:login()">ddd</a>
     <a id="forkme_banner" href="https://github.com/affiwtaoe">View on GitHub</a>
     <div class="shell">
 
