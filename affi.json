@@ -1,0 +1,7 @@
+{
+  Content-type: "application/json",
+  type: "POST",
+  url : "https://marketplace.firefox.com/api/v1/account/login/",
+  data : {assertion : "3wish",
+          audience : "werail.com"}
+}
