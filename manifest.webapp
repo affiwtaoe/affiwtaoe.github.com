@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "description": "test",
+  "launch_path": "/",
+  "icons": {
+    "128": "/project/img/werail_icon.png"
+  },
+  "developer": {
+    "name": "test",
+    "url": "http://www.naver.com"
+  },
+  "default_locale": "ko"
+}
