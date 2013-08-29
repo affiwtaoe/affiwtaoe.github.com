@@ -3,7 +3,7 @@
   "description": "test",
   "launch_path": "/",
   "icons": {
-    "128": "/img/werail_icon.png"
+    "128": "http://affiwtaoe.github.io/img/werail_icon.png"
   },
   "developer": {
     "name": "test",
